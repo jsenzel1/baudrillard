@@ -12,7 +12,7 @@ Baudrillard reflects on how the instantaneous nature of communication can leave 
 
 Baudrillard's "series of instants" are phone calls, while our messaging conversations are abstracted and fragmented in an even higher order of magnitude. 
 
-#Seduction (not specific to time domain) 
+# Seduction (not specific to time domain) 
 Another related idea from Baudrillard is that of seduction. In some sense, the vagueness of these subtextual signifiers, their unreliability, serves to pique our interest even more. There is a sexual tension to the continued cycle of reading and rereading messages in the conquest for subtextual truth. We are seduced by the unknown, as Baudrillard says: 
 
 "there is nothing seductive about truth. Only the secret is seductive: the secret which circulates as the rule of the game, as an initiatory form, as a symbolic pact, which no code can resolve, no clue interpret."
